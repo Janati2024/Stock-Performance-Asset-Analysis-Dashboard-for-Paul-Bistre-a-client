@@ -2,6 +2,8 @@
 This Tableau dashboard provides a detailed visualization of stock market performance by analyzing daily returns, asset distribution, and rate of returns over time. The project is designed to assist in financial decision-making by identifying trends, risk factors, and investment opportunities.
 ## Dashboard link
 https://public.tableau.com/app/profile/janati.nakimera/viz/PorfolioRiskAssessmentofPaulBistre/Dashboardformywork?publish=yes
+## Dashboard Image
+https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=zmXULMrl4laT&line=1&uniqifier=1
 ## Objective
 The goal of this dashboard is to:
 Provide an intuitive visualization of stock performance and investment trends.
